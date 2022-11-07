@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>welcome to royal!</h2>
 <<<<<<< Updated upstream
 //changes for ID-102
 <p>This is para </p>
